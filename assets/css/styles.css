@@ -196,6 +196,9 @@ p {
 .main-wrapper .section {
   margin-bottom: 60px;
 }
+.item{
+  text-align: justify;
+}
 .main-wrapper .experiences-section .item {
   margin-bottom: 30px;
 }
